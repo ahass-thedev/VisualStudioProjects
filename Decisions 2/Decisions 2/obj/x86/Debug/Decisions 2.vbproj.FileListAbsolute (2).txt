@@ -1,0 +1,20 @@
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\Decisions 2\Decisions 2\bin\Debug\Decisions 2.exe
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\Decisions 2\Decisions 2\bin\Debug\Decisions 2.pdb
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\Decisions 2\Decisions 2\bin\Debug\Decisions 2.xml
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\Decisions 2\Decisions 2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\Decisions 2\Decisions 2\obj\x86\Debug\Decisions_2.Form1.resources
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\Decisions 2\Decisions 2\obj\x86\Debug\Decisions_2.Resources.resources
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\Decisions 2\Decisions 2\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\Decisions 2\Decisions 2\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\Decisions 2\Decisions 2\obj\x86\Debug\Decisions 2.exe
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\Decisions 2\Decisions 2\obj\x86\Debug\Decisions 2.xml
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\Decisions 2\Decisions 2\obj\x86\Debug\Decisions 2.pdb
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\Decisions 2\Decisions 2\obj\x86\Debug\Decisions 2.exe
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\Decisions 2\Decisions 2\obj\x86\Debug\Decisions 2.xml
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\Decisions 2\Decisions 2\obj\x86\Debug\Decisions 2.pdb
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\Decisions 2\Decisions 2\obj\x86\Debug\Decisions_2.Form1.resources
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\Decisions 2\Decisions 2\obj\x86\Debug\Decisions_2.Resources.resources
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\Decisions 2\Decisions 2\obj\x86\Debug\Decisions 2.vbproj.GenerateResource.Cache
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\Decisions 2\Decisions 2\bin\Debug\Decisions 2.exe
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\Decisions 2\Decisions 2\bin\Debug\Decisions 2.pdb
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\Decisions 2\Decisions 2\bin\Debug\Decisions 2.xml
