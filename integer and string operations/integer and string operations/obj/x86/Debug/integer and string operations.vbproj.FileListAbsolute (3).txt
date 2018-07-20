@@ -1,0 +1,17 @@
+C:\Users\12246796\AppData\Local\Temporary Projects\integer and string operations\bin\Debug\integer and string operations.exe
+C:\Users\12246796\AppData\Local\Temporary Projects\integer and string operations\bin\Debug\integer and string operations.pdb
+C:\Users\12246796\AppData\Local\Temporary Projects\integer and string operations\bin\Debug\integer and string operations.xml
+C:\Users\12246796\AppData\Local\Temporary Projects\integer and string operations\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\12246796\AppData\Local\Temporary Projects\integer and string operations\obj\x86\Debug\integer_and_string_operations.Form1.resources
+C:\Users\12246796\AppData\Local\Temporary Projects\integer and string operations\obj\x86\Debug\integer_and_string_operations.Resources.resources
+C:\Users\12246796\AppData\Local\Temporary Projects\integer and string operations\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\12246796\AppData\Local\Temporary Projects\integer and string operations\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\12246796\AppData\Local\Temporary Projects\integer and string operations\obj\x86\Debug\integer and string operations.exe
+C:\Users\12246796\AppData\Local\Temporary Projects\integer and string operations\obj\x86\Debug\integer and string operations.xml
+C:\Users\12246796\AppData\Local\Temporary Projects\integer and string operations\obj\x86\Debug\integer and string operations.pdb
+H:\VB\integer and string operations\integer and string operations\obj\x86\Debug\integer and string operations.exe
+H:\VB\integer and string operations\integer and string operations\obj\x86\Debug\integer and string operations.xml
+H:\VB\integer and string operations\integer and string operations\obj\x86\Debug\integer and string operations.pdb
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\integer and string operations\integer and string operations\obj\x86\Debug\integer and string operations.exe
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\integer and string operations\integer and string operations\obj\x86\Debug\integer and string operations.xml
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\integer and string operations\integer and string operations\obj\x86\Debug\integer and string operations.pdb
