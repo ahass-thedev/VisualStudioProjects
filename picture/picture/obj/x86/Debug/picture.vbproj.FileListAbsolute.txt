@@ -1,0 +1,29 @@
+C:\Users\Achmadoo\AppData\Local\Temporary Projects\picture\bin\Debug\picture.exe
+C:\Users\Achmadoo\AppData\Local\Temporary Projects\picture\bin\Debug\picture.pdb
+C:\Users\Achmadoo\AppData\Local\Temporary Projects\picture\bin\Debug\picture.xml
+C:\Users\Achmadoo\AppData\Local\Temporary Projects\picture\obj\x86\Debug\picture.Form1.resources
+C:\Users\Achmadoo\AppData\Local\Temporary Projects\picture\obj\x86\Debug\picture.Resources.resources
+C:\Users\Achmadoo\AppData\Local\Temporary Projects\picture\obj\x86\Debug\picture.vbproj.GenerateResource.Cache
+C:\Users\Achmadoo\AppData\Local\Temporary Projects\picture\obj\x86\Debug\picture.exe
+C:\Users\Achmadoo\AppData\Local\Temporary Projects\picture\obj\x86\Debug\picture.xml
+C:\Users\Achmadoo\AppData\Local\Temporary Projects\picture\obj\x86\Debug\picture.pdb
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\picture\picture\obj\x86\Debug\picture.exe
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\picture\picture\obj\x86\Debug\picture.xml
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\picture\picture\obj\x86\Debug\picture.pdb
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\picture\picture\bin\Debug\picture.exe
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\picture\picture\bin\Debug\picture.pdb
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\picture\picture\bin\Debug\picture.xml
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\picture\picture\obj\x86\Debug\picture.Form1.resources
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\picture\picture\obj\x86\Debug\picture.Resources.resources
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\picture\picture\obj\x86\Debug\picture.vbproj.GenerateResource.Cache
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\picture\picture\obj\x86\Debug\picture.exe
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\picture\picture\obj\x86\Debug\picture.xml
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\picture\picture\obj\x86\Debug\picture.pdb
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\picture\picture\bin\Debug\picture.exe
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\picture\picture\bin\Debug\picture.pdb
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\picture\picture\bin\Debug\picture.xml
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\picture\picture\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\picture\picture\obj\x86\Debug\picture.Form1.resources
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\picture\picture\obj\x86\Debug\picture.Resources.resources
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\picture\picture\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\picture\picture\obj\x86\Debug\GenerateResource.write.1.tlog
