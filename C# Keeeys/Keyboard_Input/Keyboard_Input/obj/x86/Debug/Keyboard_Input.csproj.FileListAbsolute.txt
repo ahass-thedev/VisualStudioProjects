@@ -1,0 +1,7 @@
+H:\C# Keeeys\Keyboard_Input\Keyboard_Input\bin\Debug\Keyboard_Input.exe
+H:\C# Keeeys\Keyboard_Input\Keyboard_Input\bin\Debug\Keyboard_Input.pdb
+H:\C# Keeeys\Keyboard_Input\Keyboard_Input\obj\x86\Debug\Keyboard_Input.Form1.resources
+H:\C# Keeeys\Keyboard_Input\Keyboard_Input\obj\x86\Debug\Keyboard_Input.Properties.Resources.resources
+H:\C# Keeeys\Keyboard_Input\Keyboard_Input\obj\x86\Debug\Keyboard_Input.csproj.GenerateResource.Cache
+H:\C# Keeeys\Keyboard_Input\Keyboard_Input\obj\x86\Debug\Keyboard_Input.exe
+H:\C# Keeeys\Keyboard_Input\Keyboard_Input\obj\x86\Debug\Keyboard_Input.pdb
