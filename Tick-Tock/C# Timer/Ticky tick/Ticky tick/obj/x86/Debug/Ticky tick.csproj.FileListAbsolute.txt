@@ -1,0 +1,7 @@
+H:\Tick-Tock\C# Timer\Ticky tick\Ticky tick\bin\Debug\Ticky tick.exe
+H:\Tick-Tock\C# Timer\Ticky tick\Ticky tick\bin\Debug\Ticky tick.pdb
+H:\Tick-Tock\C# Timer\Ticky tick\Ticky tick\obj\x86\Debug\Ticky_tick.Form1.resources
+H:\Tick-Tock\C# Timer\Ticky tick\Ticky tick\obj\x86\Debug\Ticky_tick.Properties.Resources.resources
+H:\Tick-Tock\C# Timer\Ticky tick\Ticky tick\obj\x86\Debug\Ticky tick.csproj.GenerateResource.Cache
+H:\Tick-Tock\C# Timer\Ticky tick\Ticky tick\obj\x86\Debug\Ticky tick.exe
+H:\Tick-Tock\C# Timer\Ticky tick\Ticky tick\obj\x86\Debug\Ticky tick.pdb
