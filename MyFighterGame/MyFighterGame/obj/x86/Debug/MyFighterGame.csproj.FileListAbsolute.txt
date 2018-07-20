@@ -1,0 +1,8 @@
+H:\MyFighterGame\MyFighterGame\obj\x86\Debug\MyFighterGame.csprojResolveAssemblyReference.cache
+H:\MyFighterGame\MyFighterGame\bin\Debug\MyFighterGame.exe
+H:\MyFighterGame\MyFighterGame\bin\Debug\MyFighterGame.pdb
+H:\MyFighterGame\MyFighterGame\obj\x86\Debug\MyFighterGame.exe
+H:\MyFighterGame\MyFighterGame\obj\x86\Debug\MyFighterGame.pdb
+H:\MyFighterGame\MyFighterGame\obj\x86\Debug\MyFighterGame.Properties.Resources.resources
+H:\MyFighterGame\MyFighterGame\obj\x86\Debug\MyFighterGame.Resource1.resources
+H:\MyFighterGame\MyFighterGame\obj\x86\Debug\MyFighterGame.csproj.GenerateResource.Cache

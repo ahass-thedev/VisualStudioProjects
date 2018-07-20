@@ -1,0 +1,4 @@
+H:\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+H:\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+H:\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+H:\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb

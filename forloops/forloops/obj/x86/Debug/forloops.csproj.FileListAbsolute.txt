@@ -1,0 +1,4 @@
+H:\forloops\forloops\bin\Debug\forloops.exe
+H:\forloops\forloops\bin\Debug\forloops.pdb
+H:\forloops\forloops\obj\x86\Debug\forloops.exe
+H:\forloops\forloops\obj\x86\Debug\forloops.pdb

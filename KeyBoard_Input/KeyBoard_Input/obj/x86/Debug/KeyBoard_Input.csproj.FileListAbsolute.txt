@@ -1,0 +1,3 @@
+H:\KeyBoard_Input\KeyBoard_Input\obj\x86\Debug\Keyboard_Input.Form1.resources
+H:\KeyBoard_Input\KeyBoard_Input\obj\x86\Debug\KeyBoard_Input.Properties.Resources.resources
+H:\KeyBoard_Input\KeyBoard_Input\obj\x86\Debug\KeyBoard_Input.csproj.GenerateResource.Cache
