@@ -1,0 +1,11 @@
+H:\VB\compound\compound\bin\Debug\compound.exe
+H:\VB\compound\compound\bin\Debug\compound.pdb
+H:\VB\compound\compound\bin\Debug\compound.xml
+H:\VB\compound\compound\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\VB\compound\compound\obj\x86\Debug\compound.Form1.resources
+H:\VB\compound\compound\obj\x86\Debug\compound.Resources.resources
+H:\VB\compound\compound\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\VB\compound\compound\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\VB\compound\compound\obj\x86\Debug\compound.exe
+H:\VB\compound\compound\obj\x86\Debug\compound.xml
+H:\VB\compound\compound\obj\x86\Debug\compound.pdb
