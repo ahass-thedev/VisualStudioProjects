@@ -1,0 +1,33 @@
+C:\Users\12246796\AppData\Local\Temporary Projects\Introduction Project\bin\Debug\Introduction Project.exe
+C:\Users\12246796\AppData\Local\Temporary Projects\Introduction Project\bin\Debug\Introduction Project.pdb
+C:\Users\12246796\AppData\Local\Temporary Projects\Introduction Project\bin\Debug\Introduction Project.xml
+C:\Users\12246796\AppData\Local\Temporary Projects\Introduction Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\12246796\AppData\Local\Temporary Projects\Introduction Project\obj\x86\Debug\Introduction_Project.Form1.resources
+C:\Users\12246796\AppData\Local\Temporary Projects\Introduction Project\obj\x86\Debug\Introduction_Project.Resources.resources
+C:\Users\12246796\AppData\Local\Temporary Projects\Introduction Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\12246796\AppData\Local\Temporary Projects\Introduction Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\12246796\AppData\Local\Temporary Projects\Introduction Project\obj\x86\Debug\Introduction Project.exe
+C:\Users\12246796\AppData\Local\Temporary Projects\Introduction Project\obj\x86\Debug\Introduction Project.xml
+C:\Users\12246796\AppData\Local\Temporary Projects\Introduction Project\obj\x86\Debug\Introduction Project.pdb
+H:\VB\Introduction Project\Introduction Project\obj\x86\Debug\Introduction Project.exe
+H:\VB\Introduction Project\Introduction Project\obj\x86\Debug\Introduction Project.xml
+H:\VB\Introduction Project\Introduction Project\obj\x86\Debug\Introduction Project.pdb
+H:\VB\Introduction Project\Introduction Project\bin\Debug\Introduction Project.exe
+H:\VB\Introduction Project\Introduction Project\bin\Debug\Introduction Project.pdb
+H:\VB\Introduction Project\Introduction Project\bin\Debug\Introduction Project.xml
+H:\VB\Introduction Project\Introduction Project\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\VB\Introduction Project\Introduction Project\obj\x86\Debug\Introduction_Project.Form1.resources
+H:\VB\Introduction Project\Introduction Project\obj\x86\Debug\Introduction_Project.Resources.resources
+H:\VB\Introduction Project\Introduction Project\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\VB\Introduction Project\Introduction Project\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\Introduction Project\Introduction Project\obj\x86\Debug\Introduction Project.exe
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\Introduction Project\Introduction Project\obj\x86\Debug\Introduction Project.xml
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\Introduction Project\Introduction Project\obj\x86\Debug\Introduction Project.pdb
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\Introduction Project\Introduction Project\bin\Debug\Introduction Project.exe
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\Introduction Project\Introduction Project\bin\Debug\Introduction Project.pdb
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\Introduction Project\Introduction Project\bin\Debug\Introduction Project.xml
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\Introduction Project\Introduction Project\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\Introduction Project\Introduction Project\obj\x86\Debug\Introduction_Project.Form1.resources
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\Introduction Project\Introduction Project\obj\x86\Debug\Introduction_Project.Resources.resources
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\Introduction Project\Introduction Project\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\Introduction Project\Introduction Project\obj\x86\Debug\GenerateResource.write.1.tlog
