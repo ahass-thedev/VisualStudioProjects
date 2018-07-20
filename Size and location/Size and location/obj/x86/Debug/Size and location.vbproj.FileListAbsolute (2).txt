@@ -1,0 +1,31 @@
+C:\Users\12246796\AppData\Local\Temporary Projects\Size and location\bin\Debug\Size and location.exe
+C:\Users\12246796\AppData\Local\Temporary Projects\Size and location\bin\Debug\Size and location.pdb
+C:\Users\12246796\AppData\Local\Temporary Projects\Size and location\bin\Debug\Size and location.xml
+C:\Users\12246796\AppData\Local\Temporary Projects\Size and location\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\12246796\AppData\Local\Temporary Projects\Size and location\obj\x86\Debug\Size_and_location.Form1.resources
+C:\Users\12246796\AppData\Local\Temporary Projects\Size and location\obj\x86\Debug\Size_and_location.Resources.resources
+C:\Users\12246796\AppData\Local\Temporary Projects\Size and location\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\12246796\AppData\Local\Temporary Projects\Size and location\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\12246796\AppData\Local\Temporary Projects\Size and location\obj\x86\Debug\Size and location.exe
+C:\Users\12246796\AppData\Local\Temporary Projects\Size and location\obj\x86\Debug\Size and location.xml
+C:\Users\12246796\AppData\Local\Temporary Projects\Size and location\obj\x86\Debug\Size and location.pdb
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\Size and location\Size and location\obj\x86\Debug\Size and location.exe
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\Size and location\Size and location\obj\x86\Debug\Size and location.xml
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\Size and location\Size and location\obj\x86\Debug\Size and location.pdb
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\Size and location\Size and location\obj\x86\Debug\Size and location.exe
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\Size and location\Size and location\obj\x86\Debug\Size and location.xml
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\Size and location\Size and location\obj\x86\Debug\Size and location.pdb
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\Size and location\Size and location\bin\Debug\Size and location.exe
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\Size and location\Size and location\bin\Debug\Size and location.pdb
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\Size and location\Size and location\bin\Debug\Size and location.xml
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\Size and location\Size and location\obj\x86\Debug\Size_and_location.Form1.resources
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\Size and location\Size and location\obj\x86\Debug\Size_and_location.Resources.resources
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\Size and location\Size and location\obj\x86\Debug\Size and location.vbproj.GenerateResource.Cache
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\Size and location\Size and location\bin\Debug\Size and location.exe
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\Size and location\Size and location\bin\Debug\Size and location.pdb
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\Size and location\Size and location\bin\Debug\Size and location.xml
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\Size and location\Size and location\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\Size and location\Size and location\obj\x86\Debug\Size_and_location.Form1.resources
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\Size and location\Size and location\obj\x86\Debug\Size_and_location.Resources.resources
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\Size and location\Size and location\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\Size and location\Size and location\obj\x86\Debug\GenerateResource.write.1.tlog

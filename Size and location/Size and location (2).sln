@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Size and location", "Size and location\Size and location.vbproj", "{EF8FDE3F-4DFD-4AC6-AB5E-E7FDD5D0DACF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF8FDE3F-4DFD-4AC6-AB5E-E7FDD5D0DACF}.Debug|x86.ActiveCfg = Debug|x86
+		{EF8FDE3F-4DFD-4AC6-AB5E-E7FDD5D0DACF}.Debug|x86.Build.0 = Debug|x86
+		{EF8FDE3F-4DFD-4AC6-AB5E-E7FDD5D0DACF}.Release|x86.ActiveCfg = Release|x86
+		{EF8FDE3F-4DFD-4AC6-AB5E-E7FDD5D0DACF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
