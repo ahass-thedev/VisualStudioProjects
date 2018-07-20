@@ -1,0 +1,7 @@
+H:\MyFighterGame\MyFighterGame\bin\Release\MyFighterGame.exe
+H:\MyFighterGame\MyFighterGame\bin\Release\MyFighterGame.pdb
+H:\MyFighterGame\MyFighterGame\obj\x86\Release\MyFighterGame.Properties.Resources.resources
+H:\MyFighterGame\MyFighterGame\obj\x86\Release\MyFighterGame.Resource1.resources
+H:\MyFighterGame\MyFighterGame\obj\x86\Release\MyFighterGame.csproj.GenerateResource.Cache
+H:\MyFighterGame\MyFighterGame\obj\x86\Release\MyFighterGame.exe
+H:\MyFighterGame\MyFighterGame\obj\x86\Release\MyFighterGame.pdb
