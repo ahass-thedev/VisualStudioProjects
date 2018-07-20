@@ -1,0 +1,8 @@
+H:\whileloops\whileloops\bin\Debug\whileloops.exe
+H:\whileloops\whileloops\bin\Debug\whileloops.pdb
+H:\whileloops\whileloops\obj\x86\Debug\whileloops.exe
+H:\whileloops\whileloops\obj\x86\Debug\whileloops.pdb
+C:\Users\12246796\Desktop\show grasso\whileloops\whileloops\obj\x86\Debug\whileloops.exe
+C:\Users\12246796\Desktop\show grasso\whileloops\whileloops\obj\x86\Debug\whileloops.pdb
+C:\Users\12246796\Desktop\show grasso\whileloops\whileloops\bin\Debug\whileloops.exe
+C:\Users\12246796\Desktop\show grasso\whileloops\whileloops\bin\Debug\whileloops.pdb

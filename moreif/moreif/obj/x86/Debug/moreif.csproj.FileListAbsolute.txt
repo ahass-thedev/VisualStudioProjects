@@ -1,0 +1,4 @@
+C:\Users\12246796\Desktop\show grasso\moreif\moreif\bin\Debug\moreif.exe
+C:\Users\12246796\Desktop\show grasso\moreif\moreif\bin\Debug\moreif.pdb
+C:\Users\12246796\Desktop\show grasso\moreif\moreif\obj\x86\Debug\moreif.exe
+C:\Users\12246796\Desktop\show grasso\moreif\moreif\obj\x86\Debug\moreif.pdb

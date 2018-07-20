@@ -1,56 +1,97 @@
-﻿//Ahmed Hassanein
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
-namespace ConsoleApplication2
+namespace method//I HATE MY LIFE
 {
     class Program
     {
         static void Main(string[] args)
         {
-
-            Console.WriteLine("Enter a word");
-            string word = Console.ReadLine();
-            Console.WriteLine("Hello " + word);
-
-            Console.WriteLine("Enter a number");
-            double numberone = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("Enter a number");
-            double numbertwo = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("Enter a number");
-            double numberthree = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("Enter a number");
-            double numberfour = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("Enter a number");
-            double numberfive = Convert.ToDouble(Console.ReadLine());
-            double semfin = numberone + numbertwo + numberthree + numberfour + numberfive;
-            double final = semfin / 5;
-            Console.WriteLine("Your mean is: " + final);
-            Console.WriteLine("Guess my magic number");
-
-            double magic = Convert.ToDouble(Console.ReadLine());
-
-
-            while (magic != 17)
+            string choice = "";
+            Program myObject = new Program();
+            do
             {
-                if (magic == 17)
+                Console.WriteLine("Make a selection");
+                Console.WriteLine("1: Letter");
+                Console.WriteLine("2: Fact");
+                Console.WriteLine("3: Sum");
+                Console.WriteLine("4: exit");
+                Console.WriteLine("Please input a choice.");
+                choice = Console.ReadLine();
+
+                      switch (choice)
                 {
-                    Console.WriteLine("You guessed right");
+                        case "1":
+                        Console.WriteLine("choose a letter");
+                        char letter = (char)(Console.Read());
+                        myObject.FindLetter(letter);
+                        break;
+                     case "2":
+                        Console.WriteLine("1 and 10");
+                        int numero = Convert.ToInt32(Console.ReadLine());
+                        myObject.factorial(numero);
+                          break;
+                          case "3":
+                        Console.WriteLine("num");
+                        int pickle = Convert.ToInt32(Console.ReadLine());
+                        myObject.FactorSum(pickle);
+                        break;
+                          case "4":
+                        Console.WriteLine("Im going to kill myself");
+                        break;
                 }
-                if (magic >= 17)
-                {
-                    Console.WriteLine("Guess Lower");
-                }
-                if (magic <= 17)
-                {
-                    Console.WriteLine("Guess Higher");
-                }
-                break;
+            } while (choice != "4");
+        }
+        void FindLetter(char letter)
+        {
+            string word = "suicide";
+            if (word.Contains(letter))
+            {
+                Console.WriteLine("im close to killing my self");
             }
-   
-            Console.ReadLine();
+            else
+            {
+                Console.WriteLine("you dumb");
+            }
+        }
+        void factorial(int Base)
+        {
+            if (Base >= 1 && Base <= 10)
+            {
+                int result = (factorial2(Base));
+                Console.WriteLine("Your result is " + result);
+            }
+            else
+            {
+                Console.WriteLine("you screw up");
+            }
+        }
+        int factorial2(int Base)
+        {
+            if (Base == 1)
+            {
+                return 1;
+            }
+            else
+            {
+                return Base * factorial2(Base - 1);
+            }
+        }
+        void FactorSum(int UserNumber)
+        {
+            int total = 0;
+            for (int i = 1; i <= UserNumber; i++)
+            {
+                if (UserNumber % i == 0)
+                {
+                    total = total + i;
+                }
+            }
+            Console.WriteLine(total);
         }
     }
 }
+

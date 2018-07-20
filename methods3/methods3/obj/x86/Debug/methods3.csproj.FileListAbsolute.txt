@@ -1,0 +1,8 @@
+C:\Users\12246796\Desktop\show grasso\methods3\methods3\bin\Debug\methods3.exe
+C:\Users\12246796\Desktop\show grasso\methods3\methods3\bin\Debug\methods3.pdb
+C:\Users\12246796\Desktop\show grasso\methods3\methods3\obj\x86\Debug\methods3.exe
+C:\Users\12246796\Desktop\show grasso\methods3\methods3\obj\x86\Debug\methods3.pdb
+H:\show grasso\methods3\methods3\obj\x86\Debug\methods3.exe
+H:\show grasso\methods3\methods3\obj\x86\Debug\methods3.pdb
+H:\show grasso\methods3\methods3\bin\Debug\methods3.exe
+H:\show grasso\methods3\methods3\bin\Debug\methods3.pdb

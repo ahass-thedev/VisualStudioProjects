@@ -2,3 +2,7 @@ H:\forloops\forloops\bin\Debug\forloops.exe
 H:\forloops\forloops\bin\Debug\forloops.pdb
 H:\forloops\forloops\obj\x86\Debug\forloops.exe
 H:\forloops\forloops\obj\x86\Debug\forloops.pdb
+C:\Users\12246796\Desktop\show grasso\forloops\forloops\obj\x86\Debug\forloops.exe
+C:\Users\12246796\Desktop\show grasso\forloops\forloops\obj\x86\Debug\forloops.pdb
+C:\Users\12246796\Desktop\show grasso\forloops\forloops\bin\Debug\forloops.exe
+C:\Users\12246796\Desktop\show grasso\forloops\forloops\bin\Debug\forloops.pdb
