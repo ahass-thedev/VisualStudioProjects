@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="combobreaker.exe" version="1.0.0.0" publicKeyToken="79c1cf352445c53f" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="combobreaker" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="combobreaker.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="combobreaker.exe" size="29184">
+      <assemblyIdentity name="combobreaker" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>drJ22Npq5pTRUNQF1Bv/O13hEtg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=Achmadoo-HP\Achmadoo" issuerKeyHash="ac214889c816da3e3d5c79e3d9c4a59d12438377" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>sa+TOReOlAM+BVYBtmD2sJodR2I=</DigestValue></Reference></SignedInfo><SignatureValue>XKQOGKY8dZJVsmC+ZS6NkjZ1Q6WTmRpzupoadotVwUQujfMywLADh3IGPxne0EhgVjSXIcxk+NT+KrTwoRAnqXaYTM5ewzOmpfqemHiMSBp53SvOiWJhXpK8mXPoNF57KRxN03nAp4OdZLn5XRewM3ErJ+xySTV+jGaZpntpA3Q=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>o84FUfYl1amvFNLuPPBsqzzB45Uc0IBAZ34wAn5ey2qb8FokS2+0qKTGayLn7ggT6oz9T8rBNS8lPtRiKbrI08LafM9Bferk5rig6tVi2ioc2smNDoqEwEiu96p91sW6E6Pbwvd/J3fLr7oSaMV051bG1mkNuQGtr48v7PWEoms=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="62471d9ab0f660b60156053e03948e173993afb1" Description="" Url=""><as:assemblyIdentity name="combobreaker.exe" version="1.0.0.0" publicKeyToken="79c1cf352445c53f" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Achmadoo-HP\Achmadoo</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>MU+CFfH2T6CbYyoIEjzj4M5nKqc=</DigestValue></Reference></SignedInfo><SignatureValue>PLaH+SyKjqdz+hraH2vv+ZEzDD5GFHut0/aTXEjPt1XyjJ1UND2hfb3llpVrmWD9JEUz6AhzVUNhBXx+rhhBRgm8KxqyPjH8C8rKSAXv8lrTRu/rcBeyMakNI1Jstqm21HJaoxUm/PBPjS69LA+8l+tjTHx8OdQ09YccgElKen8=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>o84FUfYl1amvFNLuPPBsqzzB45Uc0IBAZ34wAn5ey2qb8FokS2+0qKTGayLn7ggT6oz9T8rBNS8lPtRiKbrI08LafM9Bferk5rig6tVi2ioc2smNDoqEwEiu96p91sW6E6Pbwvd/J3fLr7oSaMV051bG1mkNuQGtr48v7PWEoms=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQf0uEpCr/XqNJptf+ycJUvzANBgkqhkiG9w0BAQUFADAzMTEwLwYDVQQDHigAQQBjAGgAbQBhAGQAbwBvAC0ASABQAFwAQQBjAGgAbQBhAGQAbwBvMB4XDTE0MTAyNTA1MjgyN1oXDTE1MTAyNTExMjgyN1owMzExMC8GA1UEAx4oAEEAYwBoAG0AYQBkAG8AbwAtAEgAUABcAEEAYwBoAG0AYQBkAG8AbzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAo84FUfYl1amvFNLuPPBsqzzB45Uc0IBAZ34wAn5ey2qb8FokS2+0qKTGayLn7ggT6oz9T8rBNS8lPtRiKbrI08LafM9Bferk5rig6tVi2ioc2smNDoqEwEiu96p91sW6E6Pbwvd/J3fLr7oSaMV051bG1mkNuQGtr48v7PWEomsCAwEAATANBgkqhkiG9w0BAQUFAAOBgQBp+YCt8Bt8ye3MAAAFDkyh/mSPJm9JYbCKHgUQml5OQrA1Y/yiHAm09waDBTnahZMWOZqnZ5DpAH2f8lC2a3v7xnaKzGVUmjA0OswNNVQJvGuD2vK8s363GI9bgTf1VQoLwB74Ejf+SQ6HRKVvgxv+O40rSyW4rzyPnZ9DjPTc0A==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
