@@ -1,0 +1,25 @@
+C:\Users\12246796\AppData\Local\Temporary Projects\loops\bin\Debug\loops.exe
+C:\Users\12246796\AppData\Local\Temporary Projects\loops\bin\Debug\loops.pdb
+C:\Users\12246796\AppData\Local\Temporary Projects\loops\bin\Debug\loops.xml
+C:\Users\12246796\AppData\Local\Temporary Projects\loops\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\12246796\AppData\Local\Temporary Projects\loops\obj\x86\Debug\loops.Form1.resources
+C:\Users\12246796\AppData\Local\Temporary Projects\loops\obj\x86\Debug\loops.Resources.resources
+C:\Users\12246796\AppData\Local\Temporary Projects\loops\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\12246796\AppData\Local\Temporary Projects\loops\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\12246796\AppData\Local\Temporary Projects\loops\obj\x86\Debug\loops.exe
+C:\Users\12246796\AppData\Local\Temporary Projects\loops\obj\x86\Debug\loops.xml
+C:\Users\12246796\AppData\Local\Temporary Projects\loops\obj\x86\Debug\loops.pdb
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\loops\loops\obj\x86\Debug\loops.exe
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\loops\loops\obj\x86\Debug\loops.xml
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\loops\loops\obj\x86\Debug\loops.pdb
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\loops\loops\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\loops\loops\obj\x86\Debug\loops.Form1.resources
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\loops\loops\obj\x86\Debug\loops.Resources.resources
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\loops\loops\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\loops\loops\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\loops\loops\bin\Debug\loops.exe
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\loops\loops\bin\Debug\loops.pdb
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\loops\loops\bin\Debug\loops.xml
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\loops\loops\obj\x86\Debug\loops.exe
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\loops\loops\obj\x86\Debug\loops.xml
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\loops\loops\obj\x86\Debug\loops.pdb
