@@ -1,0 +1,25 @@
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\Coin Flip Toss Pro. 2\Coin Flip Toss Pro. 2\bin\Debug\Coin Flip Toss Pro. 2.exe
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\Coin Flip Toss Pro. 2\Coin Flip Toss Pro. 2\bin\Debug\Coin Flip Toss Pro. 2.pdb
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\Coin Flip Toss Pro. 2\Coin Flip Toss Pro. 2\bin\Debug\Coin Flip Toss Pro. 2.xml
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\Coin Flip Toss Pro. 2\Coin Flip Toss Pro. 2\obj\x86\Debug\WindowsApplication1.Form1.resources
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\Coin Flip Toss Pro. 2\Coin Flip Toss Pro. 2\obj\x86\Debug\WindowsApplication1.Resources.resources
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\Coin Flip Toss Pro. 2\Coin Flip Toss Pro. 2\obj\x86\Debug\Minigamers.vbproj.GenerateResource.Cache
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\Coin Flip Toss Pro. 2\Coin Flip Toss Pro. 2\obj\x86\Debug\Coin Flip Toss Pro. 2.exe
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\Coin Flip Toss Pro. 2\Coin Flip Toss Pro. 2\obj\x86\Debug\Coin Flip Toss Pro. 2.xml
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\Coin Flip Toss Pro. 2\Coin Flip Toss Pro. 2\obj\x86\Debug\Coin Flip Toss Pro. 2.pdb
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\Minigamers\Coin Flip Toss Pro. 2\bin\Debug\Minigames.exe.manifest
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\Minigamers\Coin Flip Toss Pro. 2\bin\Debug\Minigames.application
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\Minigamers\Coin Flip Toss Pro. 2\bin\Debug\Minigames.exe
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\Minigamers\Coin Flip Toss Pro. 2\bin\Debug\Minigames.pdb
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\Minigamers\Coin Flip Toss Pro. 2\bin\Debug\Minigames.xml
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\Minigamers\Coin Flip Toss Pro. 2\obj\x86\Debug\WindowsApplication1.Form1.resources
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\Minigamers\Coin Flip Toss Pro. 2\obj\x86\Debug\WindowsApplication1.Resources.resources
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\Minigamers\Coin Flip Toss Pro. 2\obj\x86\Debug\Minigamers.vbproj.GenerateResource.Cache
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\Minigamers\Coin Flip Toss Pro. 2\obj\x86\Debug\Minigames.exe.manifest
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\Minigamers\Coin Flip Toss Pro. 2\obj\x86\Debug\Minigames.application
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\Minigamers\Coin Flip Toss Pro. 2\obj\x86\Debug\Minigames.exe
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\Minigamers\Coin Flip Toss Pro. 2\obj\x86\Debug\Minigames.xml
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\Minigamers\Coin Flip Toss Pro. 2\obj\x86\Debug\Minigames.pdb
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\Minigamers\Coin Flip Toss Pro. 2\obj\x86\Debug\Minigames.exe
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\Minigamers\Coin Flip Toss Pro. 2\obj\x86\Debug\Minigames.xml
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\Minigamers\Coin Flip Toss Pro. 2\obj\x86\Debug\Minigames.pdb
