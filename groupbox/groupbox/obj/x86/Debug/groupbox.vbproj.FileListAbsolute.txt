@@ -1,0 +1,31 @@
+C:\Users\12246796\AppData\Local\Temporary Projects\groupbox\bin\Debug\groupbox.exe
+C:\Users\12246796\AppData\Local\Temporary Projects\groupbox\bin\Debug\groupbox.pdb
+C:\Users\12246796\AppData\Local\Temporary Projects\groupbox\bin\Debug\groupbox.xml
+C:\Users\12246796\AppData\Local\Temporary Projects\groupbox\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\12246796\AppData\Local\Temporary Projects\groupbox\obj\x86\Debug\groupbox.Form1.resources
+C:\Users\12246796\AppData\Local\Temporary Projects\groupbox\obj\x86\Debug\groupbox.Resources.resources
+C:\Users\12246796\AppData\Local\Temporary Projects\groupbox\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\12246796\AppData\Local\Temporary Projects\groupbox\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\12246796\AppData\Local\Temporary Projects\groupbox\obj\x86\Debug\groupbox.exe
+C:\Users\12246796\AppData\Local\Temporary Projects\groupbox\obj\x86\Debug\groupbox.xml
+C:\Users\12246796\AppData\Local\Temporary Projects\groupbox\obj\x86\Debug\groupbox.pdb
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\groupbox\groupbox\obj\x86\Debug\groupbox.exe
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\groupbox\groupbox\obj\x86\Debug\groupbox.xml
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\groupbox\groupbox\obj\x86\Debug\groupbox.pdb
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\groupbox\groupbox\bin\Debug\groupbox.exe
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\groupbox\groupbox\bin\Debug\groupbox.pdb
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\groupbox\groupbox\bin\Debug\groupbox.xml
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\groupbox\groupbox\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\groupbox\groupbox\obj\x86\Debug\groupbox.Form1.resources
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\groupbox\groupbox\obj\x86\Debug\groupbox.Resources.resources
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\groupbox\groupbox\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\2014-2015 Classes\Visual Basics Enriched\Projects\groupbox\groupbox\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\groupbox\groupbox\obj\x86\Debug\groupbox.exe
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\groupbox\groupbox\obj\x86\Debug\groupbox.xml
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\groupbox\groupbox\obj\x86\Debug\groupbox.pdb
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\groupbox\groupbox\bin\Debug\groupbox.exe
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\groupbox\groupbox\bin\Debug\groupbox.pdb
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\groupbox\groupbox\bin\Debug\groupbox.xml
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\groupbox\groupbox\obj\x86\Debug\groupbox.Form1.resources
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\groupbox\groupbox\obj\x86\Debug\groupbox.Resources.resources
+J:\2014-2015 Classes\Visual Basics Enriched\Projects\groupbox\groupbox\obj\x86\Debug\groupbox.vbproj.GenerateResource.Cache
